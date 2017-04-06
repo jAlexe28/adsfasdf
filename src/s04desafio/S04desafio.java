@@ -9,8 +9,7 @@ public class S04desafio {
     
     // Primer producto 
     System.out.print ("Nombre del primer producto:   ");
-    String  nomprod ; 
-     nomprod = sc.string();
+    
     System.out.print ("Ingrese cantidad del primer producto:    ") ; 
     double cantidad1 = sc.nextDouble () ; 
     System.out.print ("Ingrese precio:    ") ; 
