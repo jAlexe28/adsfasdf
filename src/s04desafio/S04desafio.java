@@ -46,7 +46,7 @@ public class S04desafio {
       
     String mensaje = "Total Factura:   " +totalFinal + "\n" ; 
     System.out.println (mensaje) ; 
-      System.out.println (nomprod) ;
+     
     }
     }
 
